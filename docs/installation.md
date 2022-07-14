@@ -2,21 +2,21 @@
 
 ## Stable release
 
-To install pypkg-test, run this command in your
+To install pypkg test, run this command in your
 terminal:
 
 ``` console
 $ pip install pypkg-test
 ```
 
-This is the preferred method to install pypkg-test, as it will always install the most recent stable release.
+This is the preferred method to install pypkg test, as it will always install the most recent stable release.
 
 If you don't have [pip][] installed, this [Python installation guide][]
 can guide you through the process.
 
 ## From source
 
-The source for pypkg-test can be downloaded from
+The source for pypkg test can be downloaded from
 the [Github repo][].
 
 You can either clone the public repository:

@@ -1,4 +1,4 @@
-# pypkg-test
+# pypkg test
 
 
 [![pypi](https://img.shields.io/pypi/v/pypkg-test.svg)](https://pypi.org/project/pypkg-test/)
