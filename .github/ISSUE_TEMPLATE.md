@@ -1,4 +1,4 @@
-* pypkg-test version:
+* pypkg test version:
 * Python version:
 * Operating System:
 

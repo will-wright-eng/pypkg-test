@@ -1,4 +1,4 @@
-site_name: pypkg-test
+site_name: pypkg test
 site_url: https://william-cass-wright.github.io/pypkg-test
 repo_url: https://github.com/william-cass-wright/pypkg-test
 repo_name: william-cass-wright/pypkg-test
@@ -51,7 +51,7 @@ plugins:
       lang: en
   - mkdocstrings:
       watch:
-        - pypkg-test
+        - pypkg_test
 extra:
   social:
     - icon: fontawesome/brands/twitter
